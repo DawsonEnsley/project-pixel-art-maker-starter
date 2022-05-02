@@ -16,6 +16,10 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
+.left-click {
+    text-align: center;
+}
+
 table,
 tr,
 td {
